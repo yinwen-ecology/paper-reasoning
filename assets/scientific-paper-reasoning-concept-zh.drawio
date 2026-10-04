@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="drawio" version="26.0.0">
+  <diagram name="科研论文科学推理">
+    <mxGraphModel dx="1800" dy="1430" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1800" pageHeight="1430" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="&lt;b&gt;科研论文科学推理&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=36;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="25" width="1350" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="scientific-paper-reasoning Skill 概念图 · Codex / GPT-6.1 sol" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=19;spacing=0;fontColor=#607182;" vertex="1" parent="1">
+          <mxGeometry x="50" y="85" width="1350" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;b&gt;目的&lt;/b&gt;　理解研究为什么必须走出下一步、证据改变了什么认识，并将这种推理能力用于自己的研究。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=23;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="135" width="1700" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&lt;b&gt;从论文证据出发&lt;/b&gt;　阅读全文、图表与图注、关键方法；必要时查阅补充材料。&lt;br&gt;保留简洁的证据记录：&lt;b&gt;主张 → 关键结果 → 来源位置&lt;/b&gt;。只有摘要时，给出现有材料支持的初步分析。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=18;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="1700" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;1　定位问题与张力&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;明确科学问题及其重要性。梳理研究前已有的认识、尚未解决的张力，以及拟建立的概念贡献。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;2　检验可回答性&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;检查概念如何对应测量，以及变异、尺度、不同预测和可辨识性。&lt;br&gt;&lt;b&gt;这个设计实际能回答什么？&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="338" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;3　建立证据架构&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;寻找决定性比较或最小必要证据组合，比较合理的替代解释。&lt;br&gt;&lt;b&gt;去掉哪项结果，主张会明显削弱？&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="626" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;4　校准核心主张&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;直接说出证据支持的最强结论。让相关、预测、机制与因果的表述匹配研究设计。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="914" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;5　重建推理与叙事&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;重建六拍与五个逻辑连接，解释为什么必须做下一步。检查图表和文字是否服务同一个问题。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;6　提炼可迁移原则&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;提炼 3–7 条可用于其他研究的原则。指出下一个有判别力的问题，以及新认识带来的后果。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" edge="1" parent="1" source="6" target="7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" edge="1" parent="1" source="7" target="8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" edge="1" parent="1" source="8" target="9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" edge="1" parent="1" source="9" target="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" edge="1" parent="1" source="10" target="11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" edge="1" parent="1" source="5" target="6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;entryX=0;entryY=0.27;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="268" />
+              <mxPoint x="25" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="主张 → 概念贡献：修正真正建立的新认识" edge="1" parent="1" source="9" target="6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#9a7c20;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#9a7c20;labelBackgroundColor=#ffffff;dashed=1;dashPattern=6 4;exitX=0.5;exitY=0;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1044" y="340" />
+              <mxPoint x="180" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="叙事 → 证据：回查推断是否成立" edge="1" parent="1" source="10" target="8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#80628e;endArrow=block;endFill=1;fontFamily=Microsoft YaHei;fontSize=16;fontColor=#80628e;labelBackgroundColor=#ffffff;dashed=1;dashPattern=6 4;exitX=0.5;exitY=1;entryX=0.5;entryY=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1332" y="690" />
+              <mxPoint x="756" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;container=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="730" width="800" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="&lt;b&gt;明确展示元问题与回答&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=20;" vertex="1" parent="20">
+          <mxGeometry x="18" y="14" width="764" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="&lt;b&gt;完整分析必须分别回答&lt;/b&gt;&lt;br&gt;元问题 1：真正的科学问题是什么？&lt;br&gt;元问题 2：为什么重要？&lt;br&gt;元问题 3：建立了什么新认识？" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=19;" vertex="1" parent="20">
+          <mxGeometry x="18" y="55" width="764" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="&lt;b&gt;元问题 4–8 按论文选择：&lt;/b&gt;判别证据、最强主张、科学故事、论证写法、可迁移经验。&lt;br&gt;&lt;b&gt;每个入选问题：&lt;/b&gt;显示完整问题与“回答：”，再展开证据及推理，让读者看懂为什么。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=17;" vertex="1" parent="20">
+          <mxGeometry x="18" y="170" width="764" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;container=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="730" width="870" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="&lt;b&gt;六拍推理 · 检查五个逻辑连接&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=20;" vertex="1" parent="24">
+          <mxGeometry x="18" y="14" width="834" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="&lt;b&gt;1　已有认识&lt;/b&gt; → &lt;b&gt;2　真正的张力&lt;/b&gt; → &lt;b&gt;3　研究方案&lt;/b&gt; →&lt;br&gt;&lt;br&gt;&lt;b&gt;4　决定性证据&lt;/b&gt; → &lt;b&gt;5　新认识&lt;/b&gt; → &lt;b&gt;6　科学后果&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=19;" vertex="1" parent="24">
+          <mxGeometry x="18" y="60" width="834" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="充分展开前两拍：研究前已知道什么、证据处于什么尺度、认识在哪里接不上。再说明设计和证据如何改变判断。&lt;br&gt;&lt;b&gt;严格区分研究前的认识与论文结果揭示的新发现。&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=17;" vertex="1" parent="24">
+          <mxGeometry x="18" y="170" width="834" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="&lt;b&gt;在 CODEX 中如何实现&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1050" width="1700" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="&lt;b&gt;&lt;font style=&quot;font-size:20px&quot;&gt;按需加载分析指导&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Skill 元信息 → SKILL.md → 科学推理框架与 Codex 执行指南。&lt;br&gt;&lt;br&gt;按需读取相关内容；长文任务保留证据笔记，便于持续分析。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1100" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="&lt;b&gt;&lt;font style=&quot;font-size:20px&quot;&gt;用工具核验来源&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;读取本地材料或获取指定论文。查看关键图表与方法；新颖性判断需要时，核对相关前序研究。&lt;br&gt;&lt;br&gt;根据论文类型采用合适的证据标准。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1100" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="&lt;b&gt;&lt;font style=&quot;font-size:20px&quot;&gt;两次核验，交付可读分析&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;第一遍：主张、数值、分析单位与来源。&lt;br&gt;第二遍：术语、推断中间步骤与重复。&lt;br&gt;&lt;br&gt;保存可独立阅读的 UTF-8 Markdown：鲜明判断、元问题问答、六拍与研究原则。" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1100" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="&lt;b&gt;质量标准&lt;/b&gt;　判断直接 · 主张匹配证据 · 讲清推断中间步骤 · 关键边界集中说明 · 连贯段落承载推理" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=19;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1315" width="1700" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="&lt;font color=&quot;#666666&quot;&gt;●&lt;/font&gt; 来源／工具　&lt;font color=&quot;#6c8ebf&quot;&gt;●&lt;/font&gt; 问题／设计　&lt;font color=&quot;#d6b656&quot;&gt;●&lt;/font&gt; 证据／主张　&lt;font color=&quot;#9673a6&quot;&gt;●&lt;/font&gt; 推理叙事　&lt;font color=&quot;#82b366&quot;&gt;●&lt;/font&gt; 学习／交付　　&lt;b&gt;→&lt;/b&gt; 分析推进　　&lt;b&gt;⇢&lt;/b&gt; 反馈修正" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1380" width="1700" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
