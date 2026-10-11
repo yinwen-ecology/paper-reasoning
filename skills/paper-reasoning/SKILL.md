@@ -1,9 +1,9 @@
 ---
-name: scientific-paper-reasoning
+name: paper-reasoning
 description: 深度精读科研论文：明确回答元问题，重建六拍推理，分析关键证据与概念贡献，提炼研究原则。用于理解论文为何这样设计及结果改变了什么；普通摘要、润色与正式同行评审另用专门 Skill。
 ---
 
-# Scientific Paper Reasoning
+# Paper Reasoning
 
 用论文证据重建科学推理，而不是按 Background–Methods–Results–Discussion 复述内容。核心问题是：**作者为什么必须做下一步？** 优秀故事使下一个问题、分析或实验显得必然；结果可以出乎意料。
 
