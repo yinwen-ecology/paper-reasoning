@@ -1,12 +1,12 @@
-# Scientific Paper Reasoning
+# Paper Reasoning
 
-An evidence-grounded Codex Skill for deeply understanding scientific papers and developing research judgment.
+`paper-reasoning` is an independent, cross-disciplinary Codex Skill for understanding scientific papers and developing research judgment through evidence-grounded analysis.
 
-**[中文说明与中文概念图](README.zh-CN.md)** · [Skill instructions](skills/scientific-paper-reasoning/SKILL.md) · [Reasoning framework](skills/scientific-paper-reasoning/references/scientific_reasoning_framework.md)
+**[中文说明与中文概念图](README.zh-CN.md)** · [Skill instructions](skills/paper-reasoning/SKILL.md) · [Reasoning framework](skills/paper-reasoning/references/scientific_reasoning_framework.md)
 
 ## Purpose
 
-Scientific Paper Reasoning helps researchers understand **why a study takes each next step and what its evidence changes**. It reconstructs the scientific question, the design choices, the decisive comparisons, and the resulting change in understanding. Readers can then use that reasoning in their own research.
+Paper Reasoning helps researchers understand **why a study takes each next step and what its evidence changes**. It reconstructs the scientific question, the design choices, the decisive comparisons, and the resulting change in understanding. Readers can then use that reasoning in their own research.
 
 The guiding question is: **Why must the authors take the next step?** A strong argument makes the next question, analysis, or experiment follow naturally; the answer can still be surprising.
 
@@ -14,9 +14,9 @@ The Skill is designed for the **Codex / GPT-6.1 sol** environment. Model selecti
 
 ## Concept map
 
-![Scientific Paper Reasoning: purpose, workflow, feedback loops, and Codex implementation](assets/scientific-paper-reasoning-concept.drawio.png)
+![Paper Reasoning: purpose, workflow, feedback loops, and Codex implementation](assets/paper-reasoning-concept.drawio.png)
 
-[Open the full-resolution image](assets/scientific-paper-reasoning-concept.drawio.png) · [SVG](assets/scientific-paper-reasoning-concept.svg) · [Editable draw.io source](assets/scientific-paper-reasoning-concept.drawio)
+[Open the full-resolution image](assets/paper-reasoning-concept.drawio.png) · [SVG](assets/paper-reasoning-concept.svg) · [Editable draw.io source](assets/paper-reasoning-concept.drawio)
 
 ## How it works
 
@@ -65,19 +65,19 @@ Ask Codex:
 
 ```text
 $skill-installer Install the skill from:
-https://github.com/yinwen-ecology/scientific-paper-reasoning/tree/main/skills/scientific-paper-reasoning
+https://github.com/yinwen-ecology/paper-reasoning/tree/main/skills/paper-reasoning
 ```
 
 ### Manual installation
 
-Copy the entire `skills/scientific-paper-reasoning` folder, including `references`, into a skill location supported by your Codex version. The current official documentation lists `~/.agents/skills` for user skills and `.agents/skills` for project skills.
+Copy the entire `skills/paper-reasoning` folder, including `references`, into a skill location supported by your Codex version. The current official documentation lists `~/.agents/skills` for user skills and `.agents/skills` for project skills.
 
 For example, on Windows with PowerShell:
 
 ```powershell
-git clone https://github.com/yinwen-ecology/scientific-paper-reasoning.git scientific-paper-reasoning-repo
+git clone https://github.com/yinwen-ecology/paper-reasoning.git paper-reasoning-repo
 New-Item -ItemType Directory -Force -Path "$HOME/.agents/skills" | Out-Null
-Copy-Item -Path "./scientific-paper-reasoning-repo/skills/scientific-paper-reasoning" -Destination "$HOME/.agents/skills/" -Recurse
+Copy-Item -Path "./paper-reasoning-repo/skills/paper-reasoning" -Destination "$HOME/.agents/skills/" -Recurse
 ```
 
 Use one installation location to avoid duplicate entries. If the Skill does not appear, restart Codex. See the [official Skill documentation](https://learn.chatgpt.com/docs/build-skills) for discovery locations and installation behavior.
@@ -87,7 +87,7 @@ Use one installation location to avoid duplicate entries. If the Skill does not 
 Provide a local paper, DOI, publisher URL, or pasted text. Full text, figures, captions, and relevant methods support the deepest analysis. If only an abstract is available, the analysis stays within what that material supports.
 
 ```text
-$scientific-paper-reasoning
+$paper-reasoning
 Analyze the attached paper in English. Explicitly answer meta-questions 1–3,
 select other questions that matter for this paper, and reconstruct the six-beat
 reasoning. Explain the key comparisons and how they change our understanding.
@@ -99,11 +99,11 @@ You can also request a focused analysis of a design choice, a decisive figure, a
 ## Repository contents
 
 ```text
-scientific-paper-reasoning/
+paper-reasoning/
 ├── README.md                          English overview
 ├── README.zh-CN.md                    中文说明
 ├── skills/
-│   └── scientific-paper-reasoning/
+│   └── paper-reasoning/
 │       ├── SKILL.md                   Entry point and output requirements
 │       └── references/
 │           ├── scientific_reasoning_framework.md
