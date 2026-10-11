@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="drawio" version="26.0.0">
+  <diagram name="Paper Reasoning">
+    <mxGraphModel dx="1800" dy="1430" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1800" pageHeight="1430" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="&lt;b&gt;PAPER REASONING&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=36;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="25" width="1350" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="A concept map of the Skill • Codex / GPT-6.1 sol" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=19;spacing=0;fontColor=#607182;" vertex="1" parent="1">
+          <mxGeometry x="50" y="85" width="1350" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;b&gt;Purpose&lt;/b&gt;  Understand why a study takes each next step, what its evidence changes, and how to carry that reasoning into new research." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=23;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="135" width="1700" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&lt;b&gt;START WITH THE PAPER&lt;/b&gt;  Full text + figures and captions + key methods; supplement when needed.&lt;br&gt;Keep a compact evidence record: &lt;b&gt;claim → key result → source location&lt;/b&gt;. Abstract-only input supports a provisional analysis." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=18;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="1700" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;1  Frame the question&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Identify the scientific problem, its importance, prior understanding, and unresolved tension. Name the proposed contribution." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;2  Test tractability&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Link concepts to measurements. Check variation, scales, distinct predictions, and identifiability.&lt;br&gt;&lt;b&gt;What can the design answer?&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="338" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;3  Map the evidence&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Find the decisive comparison or minimum evidence set. Compare plausible explanations.&lt;br&gt;&lt;b&gt;Which result carries the claim?&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="626" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;4  Calibrate the claim&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;State the strongest supported conclusion. Match association, prediction, mechanism, and causation to the design." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="914" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;5  Rebuild the argument&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Reconstruct six beats and five logical links. Explain why each next step follows. Align figures and prose." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="&lt;b&gt;&lt;font style=&quot;font-size:21px&quot;&gt;6  Transfer the learning&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Extract 3–7 reusable research principles. Identify the next discriminating question and its scientific consequences." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="410" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" edge="1" parent="1" source="6" target="7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" edge="1" parent="1" source="7" target="8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" edge="1" parent="1" source="8" target="9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" edge="1" parent="1" source="9" target="10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" edge="1" parent="1" source="10" target="11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" edge="1" parent="1" source="5" target="6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#526c86;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#526c86;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;entryX=0;entryY=0.27;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="268" />
+              <mxPoint x="25" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Claim → contribution: revise what is genuinely new" edge="1" parent="1" source="9" target="6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#9a7c20;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#9a7c20;labelBackgroundColor=#ffffff;dashed=1;dashPattern=6 4;exitX=0.5;exitY=0;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1044" y="340" />
+              <mxPoint x="180" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="Story → evidence: check the inference again" edge="1" parent="1" source="10" target="8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#80628e;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;fontColor=#80628e;labelBackgroundColor=#ffffff;dashed=1;dashPattern=6 4;exitX=0.5;exitY=1;entryX=0.5;entryY=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1332" y="690" />
+              <mxPoint x="756" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;container=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="730" width="800" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="&lt;b&gt;VISIBLE META-QUESTIONS &amp;amp; ANSWERS&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=20;" vertex="1" parent="20">
+          <mxGeometry x="18" y="14" width="764" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="&lt;b&gt;Always answer separately in a full analysis&lt;/b&gt;&lt;br&gt;Q1  What is the real scientific question?&lt;br&gt;Q2  Why does it matter?&lt;br&gt;Q3  What new understanding is established?" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=19;" vertex="1" parent="20">
+          <mxGeometry x="18" y="55" width="764" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="&lt;b&gt;Select Q4–Q8 for relevance:&lt;/b&gt; discriminating evidence; strongest claim; story; writing; transferable learning.&lt;br&gt;&lt;b&gt;For each selected question:&lt;/b&gt; show the full question and an explicit answer, then explain the evidence and reasoning." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=17;" vertex="1" parent="20">
+          <mxGeometry x="18" y="170" width="764" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;container=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="730" width="870" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="&lt;b&gt;SIX-BEAT NARRATIVE • VALIDATE ALL FIVE LINKS&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=20;" vertex="1" parent="24">
+          <mxGeometry x="18" y="14" width="834" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="&lt;b&gt;1  Prior understanding&lt;/b&gt; → &lt;b&gt;2  Unresolved tension&lt;/b&gt; → &lt;b&gt;3  Approach&lt;/b&gt; →&lt;br&gt;&lt;br&gt;&lt;b&gt;4  Decisive evidence&lt;/b&gt; → &lt;b&gt;5  New understanding&lt;/b&gt; → &lt;b&gt;6  Consequence&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=19;" vertex="1" parent="24">
+          <mxGeometry x="18" y="60" width="834" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Develop beats 1–2 fully: what was already known, at which scale, and where the reasoning stopped. Then show how the design and evidence change that understanding.&lt;br&gt;&lt;b&gt;Keep pre-study knowledge distinct from the paper’s discoveries.&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=17;" vertex="1" parent="24">
+          <mxGeometry x="18" y="170" width="834" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="&lt;b&gt;HOW THE SKILL RUNS IN CODEX&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1050" width="1700" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="&lt;b&gt;&lt;font style=&quot;font-size:20px&quot;&gt;Load guidance as needed&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Skill metadata → SKILL.md → reasoning framework and Codex workflow.&lt;br&gt;&lt;br&gt;Read relevant sections progressively; retain evidence notes for long tasks." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1100" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="&lt;b&gt;&lt;font style=&quot;font-size:20px&quot;&gt;Use tools to verify sources&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Read local files or retrieve the known paper. Inspect key figures and methods. Check relevant earlier work when novelty is central.&lt;br&gt;&lt;br&gt;Apply evidence standards suited to the paper type." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1100" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="&lt;b&gt;&lt;font style=&quot;font-size:20px&quot;&gt;Check twice; deliver readable analysis&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pass 1: claims, numbers, units, and sources.&lt;br&gt;Pass 2: terms, inference steps, and repetition.&lt;br&gt;&lt;br&gt;Save self-contained UTF-8 Markdown with clear judgments, Q&amp;amp;A, six beats, and principles." style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1100" width="540" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="&lt;b&gt;QUALITY STANDARD&lt;/b&gt;  Direct judgments • Evidence-matched claims • Explained inference steps • Focused boundaries • Connected prose" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=19;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1315" width="1700" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="&lt;font color=&quot;#666666&quot;&gt;●&lt;/font&gt; Sources / tools  &lt;font color=&quot;#6c8ebf&quot;&gt;●&lt;/font&gt; Question / design  &lt;font color=&quot;#d6b656&quot;&gt;●&lt;/font&gt; Evidence / claims  &lt;font color=&quot;#9673a6&quot;&gt;●&lt;/font&gt; Story  &lt;font color=&quot;#82b366&quot;&gt;●&lt;/font&gt; Learning / output    &lt;b&gt;→&lt;/b&gt; analysis flow    &lt;b&gt;⇢&lt;/b&gt; revision loop" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1.4;fontFamily=Arial;fontSize=18;fontColor=#243444;align=left;verticalAlign=top;spacing=16;spacing=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1380" width="1700" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
