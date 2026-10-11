@@ -1,8 +1,8 @@
 # 科研论文科学推理
 
-用于科研论文深度理解与科研判断训练的 Codex Skill。
+`paper-reasoning` 是用于科研论文深度理解与科研判断训练的独立跨学科 Codex Skill。
 
-**[English overview and concept map](README.md)** · [Skill 指令](skills/scientific-paper-reasoning/SKILL.md) · [科学推理框架](skills/scientific-paper-reasoning/references/scientific_reasoning_framework.md)
+**[English overview and concept map](README.md)** · [Skill 指令](skills/paper-reasoning/SKILL.md) · [科学推理框架](skills/paper-reasoning/references/scientific_reasoning_framework.md)
 
 ## 目的
 
@@ -14,9 +14,9 @@
 
 ## 中文概念图
 
-![科研论文科学推理：目的、分析步骤、反馈环节及 Codex 实现方式](assets/scientific-paper-reasoning-concept-zh.drawio.png)
+![科研论文科学推理：目的、分析步骤、反馈环节及 Codex 实现方式](assets/paper-reasoning-concept-zh.drawio.png)
 
-[查看高清图片](assets/scientific-paper-reasoning-concept-zh.drawio.png) · [SVG 矢量图](assets/scientific-paper-reasoning-concept-zh.svg) · [draw.io 可编辑源文件](assets/scientific-paper-reasoning-concept-zh.drawio)
+[查看高清图片](assets/paper-reasoning-concept-zh.drawio.png) · [SVG 矢量图](assets/paper-reasoning-concept-zh.svg) · [draw.io 可编辑源文件](assets/paper-reasoning-concept-zh.drawio)
 
 ## 原理与技术路线
 
@@ -65,19 +65,19 @@
 
 ```text
 $skill-installer 请安装以下 GitHub 路径中的 Skill：
-https://github.com/yinwen-ecology/scientific-paper-reasoning/tree/main/skills/scientific-paper-reasoning
+https://github.com/yinwen-ecology/paper-reasoning/tree/main/skills/paper-reasoning
 ```
 
 ### 手动安装
 
-将 `skills/scientific-paper-reasoning` 整个文件夹复制到当前 Codex 版本支持的 Skill 目录，保留其中的 `references`。当前官方文档列出的用户目录是 `~/.agents/skills`，项目目录是 `.agents/skills`。
+将 `skills/paper-reasoning` 整个文件夹复制到当前 Codex 版本支持的 Skill 目录，保留其中的 `references`。当前官方文档列出的用户目录是 `~/.agents/skills`，项目目录是 `.agents/skills`。
 
 Windows PowerShell 示例：
 
 ```powershell
-git clone https://github.com/yinwen-ecology/scientific-paper-reasoning.git scientific-paper-reasoning-repo
+git clone https://github.com/yinwen-ecology/paper-reasoning.git paper-reasoning-repo
 New-Item -ItemType Directory -Force -Path "$HOME/.agents/skills" | Out-Null
-Copy-Item -Path "./scientific-paper-reasoning-repo/skills/scientific-paper-reasoning" -Destination "$HOME/.agents/skills/" -Recurse
+Copy-Item -Path "./paper-reasoning-repo/skills/paper-reasoning" -Destination "$HOME/.agents/skills/" -Recurse
 ```
 
 选择一个安装位置，避免出现重复条目。如果未显示，重启 Codex。目录和发现方式见 [官方 Skill 文档](https://learn.chatgpt.com/docs/build-skills)。
@@ -87,7 +87,7 @@ Copy-Item -Path "./scientific-paper-reasoning-repo/skills/scientific-paper-reaso
 提供本地论文、DOI、出版社链接或粘贴文本。完整正文、图表、图注与关键方法能支撑深入分析；只有摘要时，回答以现有材料能够支持的内容为准。
 
 ```text
-$scientific-paper-reasoning
+$paper-reasoning
 请深度分析这篇论文，使用中文。分别列出并回答元问题 1–3，
 按论文内容选择其他值得回答的问题，充分展开六拍。
 解释关键指标、比较对象和结果如何改变认识，
@@ -99,11 +99,11 @@ $scientific-paper-reasoning
 ## 仓库文件
 
 ```text
-scientific-paper-reasoning/
+paper-reasoning/
 ├── README.md                          英文主页
 ├── README.zh-CN.md                    中文说明
 ├── skills/
-│   └── scientific-paper-reasoning/
+│   └── paper-reasoning/
 │       ├── SKILL.md                   入口指令与输出要求
 │       └── references/
 │           ├── scientific_reasoning_framework.md
